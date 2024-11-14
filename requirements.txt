@@ -1,0 +1,4 @@
+gopy
+ia_pip
+#rich
+structlog
