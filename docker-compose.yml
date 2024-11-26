@@ -5,9 +5,9 @@ services:
       context:        .
       tags:
         - innovanon/ia_go:latest
-        -           ia_go:latest
-        - innovanon/ia_go
-        -           ia_go
+    #    -           ia_go:latest
+    #    - innovanon/ia_go
+    #    -           ia_go
     image:            innovanon/ia_go
     restart:          no
     logging:
